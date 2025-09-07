@@ -2,6 +2,8 @@
 An automatic Discord scoreboard for FiveM servers using QB-Core. It posts and updates one embed in Discord using a webhook, showing the total number of players online and how many are currently on duty in groups such as police, medical, and businesses.
 
 <img width="240" height="149" alt="image" src="https://github.com/user-attachments/assets/4230c837-c8e8-4427-b3fd-42d7b7517249" />
+<img width="240" height="149" alt="image" src="https://github.com/user-attachments/assets/0b1fa122-b5c9-4509-875c-6dd61ca13a39" />
+
 
 Any questions my Discord is @KozmicAbby or https://discord.gg/8zKFMYWkkt. I will NOT response to messages without a clear question or concern.
 
@@ -11,6 +13,7 @@ Any questions my Discord is @KozmicAbby or https://discord.gg/8zKFMYWkkt. I will
 - Refreshes on interval + instantly on join/leave/duty changes  
 - Edits the same message instead of sending new posts  
 - Easy configuration in `config.lua`  
+- Black/White squares update for when a job is active.
 
 # Setup
 1. Add your Discord **webhook URL** in `config.lua`.
