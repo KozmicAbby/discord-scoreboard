@@ -1,7 +1,7 @@
 Config = {}
 
 
-Config.WebhookURL = 'https://discord.com/api/webhooks/1411810841845698632/-Tz5j0YysNRsy2-YF9NP2ZDFv2WkEpWhEU40kDKB8o_FsZi9iq9BnP-TXgrkEm4XSgmN'  -- e.g. 'https://discord.com/api/webhooks/123/abc...'
+Config.WebhookURL = ''  -- e.g. 'https://discord.com/api/webhooks'
 
 Config.Embed = {
     Title = 'SERVER NAME • Server Info',
@@ -26,4 +26,5 @@ Config.Groups = {
     Clubs     = { 'bahamamamas' },
     SpaWeed   = { 'koi' },
     Lawyers   = { 'lawyer' }
+
 }
