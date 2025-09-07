@@ -1,5 +1,6 @@
 # discord-scoreboard
 An automatic Discord scoreboard for FiveM servers using QB-Core. It posts and updates one embed in Discord using a webhook, showing the total number of players online and how many are currently on duty in groups such as police, medical, and businesses.
+<img width="1020" height="746" alt="image" src="https://github.com/user-attachments/assets/4230c837-c8e8-4427-b3fd-42d7b7517249" />
 
 # Features
 - Displays total online players with max slots  
